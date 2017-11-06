@@ -1,5 +1,5 @@
 %this is an example of how to calculate the ICC of LGRE extracted by
-%strategy M1 and M13.
+%strategies M1 and M13.
 %
 %ljlubme@gmail.com
 %Southern Medical University
