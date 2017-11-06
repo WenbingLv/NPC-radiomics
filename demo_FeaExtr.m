@@ -11,7 +11,7 @@
 %
 
 clear;clc;
-addpath('D:\NPC radiomics\data')
+
 %% parameter
 bin = 0.1;% discretization bin width
 pixelW = 0.98; sliceS = 3;% - pixelW: Pixel width, or in-plane resolution, in mm.% - sliceS: Slice spacing, in mm.
