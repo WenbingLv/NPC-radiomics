@@ -3,7 +3,7 @@ copyright @ 2017 Lijun Lu
 ljlubme@gmail.com
 
 This is a matlab demo showing how to construct radiomic matrix and extract radiomic features using different strategies/parameter 
-settings (symmetry, averaging strategy, distance, beighborhood extent and window size) for PET/CT scaned NPC images. 
+settings (symmetry, averaging strategy, distance, beighborhood extent and window size) for PET/CT scanned NPC images. 
 
 Citation: % W.Lv, Q.Yuan et al. Impact of parameter settings for radiomic features on their robustness and diagnostic task performance: application to nasopharyngeal 18F-FDG PET/CT. European Radiology, under review.
 
