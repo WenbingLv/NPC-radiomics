@@ -5,7 +5,7 @@
 %Southern Medical University
 %
 clear;clc;
-addpath('D:\NPC radiomics\data')
+
 load LGRE_M1_M13.mat
 Feature = LGRE_M1_M13;% Low Gray Level Run Emphasis (LGRE) feature, 106 cases * 2 extraction methods (M1 and M13)
 [p,anovatab,stats] = anova1(Feature,[],'off'); %one-way ANOVA
