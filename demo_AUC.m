@@ -1,5 +1,5 @@
 %this is an example for investigating the classification performance of LGRE extracted by
-%strategy M1 and M13, logistic regression and leave-one-out cross validation are used,
+%strategies M1 and M13, logistic regression and leave-one-out cross validation are used,
 %the AUC, sensitivity and specificity are also calculated.
 %
 %ljlubme@gmail.com
