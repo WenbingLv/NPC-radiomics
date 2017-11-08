@@ -3,11 +3,13 @@ This is a matlab demo showing how to construct radiomic matrix and extract radio
 settings for PET/CT scanned NPC images. 
 
 Citation: 
+
 [1] W.Lv, Q.Yuan et al. Impact of parameter settings for radiomic features on their robustness and diagnostic task performance: application to nasopharyngeal 18F-FDG PET/CT. European Radiology,under review.
 
 [2] Lu L, Lv W, Jiang J et al (2016) Robustness of radiomic features in [11C]choline and [18F]FDG PET/CT imaging of nasopharyngeal carcinoma: impact of segmentation and discretization. Mol Imaging Biol 18:935-945
 
 Reference:
+
 [1] Vallières, M. et al. (2015). A radiomics model from joint FDG-PET and MRI texture features for the prediction of lung metastases in soft-tissue sarcomas of the extremities. Physics in Medicine and Biology, 60(14), 5471-5496. doi:10.1088/0031-9155/60/14/5471
 
 [2] Zhou, H., Vallieres, M., Bai, H.X. et al. (2017). MRI features predict survival and molecular markers in diffuse lower-grade gliomas. Neuro-Oncology, XX(XX), 1-10. doi:10.1093/neuonc/now256
