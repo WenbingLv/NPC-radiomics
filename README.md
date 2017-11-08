@@ -18,7 +18,8 @@ Author: Wenbing Lv, Lijun Lu <ljlubme@gmail.com>
 Southern Medical University
 
 History:
-- Creation: 2017.11
+
+Creation: 2017.11
 
 This matlab code antains 3 deoms:
 
