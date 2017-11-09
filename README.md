@@ -8,13 +8,7 @@ Citation:
 
 [2] Lu L, Lv W, Jiang J et al (2016) Robustness of radiomic features in [11C]choline and [18F]FDG PET/CT imaging of nasopharyngeal carcinoma: impact of segmentation and discretization. Mol Imaging Biol 18:935-945
 
-Reference:
-
-[1] Vallières, M. et al. (2015). A radiomics model from joint FDG-PET and MRI texture features for the prediction of lung metastases in soft-tissue sarcomas of the extremities. Physics in Medicine and Biology, 60(14), 5471-5496. doi:10.1088/0031-9155/60/14/5471
-
-[2] Zhou, H., Vallieres, M., Bai, H.X. et al. (2017). MRI features predict survival and molecular markers in diffuse lower-grade gliomas. Neuro-Oncology, XX(XX), 1-10. doi:10.1093/neuonc/now256
-
-Author: Wenbing Lv, Lijun Lu <ljlubme@gmail.com>
+Author: Wenbing Lv, Lijun Lu  <ljlubme@gmail.com>
 Southern Medical University
 
 History:
