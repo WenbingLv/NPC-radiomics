@@ -15,9 +15,9 @@ History:
 
 Creation: 2017.11
 
-This matlab code antains 3 deoms:
+This matlab code contains 3 deoms:
 
-1. “demo_FeaExtr”: matlab codes to load PET images, segmentation mask and extract radiomic features under different parameter settings, i.e. symmetry, averaging strategy and distance for GLCM,  averaging strategy for GLRLM, neighborhoods extent for GLSZM and window size for NGTDM.
+1. “demo_FeaExtr”: matlab codes to load PET images, segmentation mask and extract radiomic features under different parameter settings, i.e. symmetry, averaging strategy and distance for GLCM,  averaging strategy for GLRLM, neighborhood extent for GLSZM and window size for NGTDM.
 
 2. "demo_ICC":matlab codes to calculate the intra-class correlation coeffcient of feature extracted under different parameter settings.
 
