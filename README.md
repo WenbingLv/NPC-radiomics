@@ -4,7 +4,7 @@ settings for PET/CT scanned NPC images.
 
 Citation: 
 
-[1] Lv W, Yuan Q et al. Impact of parameter settings for radiomic features on their robustness and diagnostic task performance: application to nasopharyngeal 18F-FDG PET/CT. European Radiology, under review.
+[1] Lv W, Yuan Q et al (2018) Robustness versus disease differentiation when varying parameter settings in radiomics features: application to nasopharyngeal PET/CT. European Radiology 28:3245-3254
 
 [2] Lu L, Lv W, Jiang J et al (2016) Robustness of radiomic features in [11C]choline and [18F]FDG PET/CT imaging of nasopharyngeal carcinoma: impact of segmentation and discretization. Mol Imaging Biol 18:935-945
 
@@ -15,7 +15,7 @@ History:
 
 Creation: 2017.11
 
-This matlab code contains 3 deoms:
+This matlab code contains 3 demos:
 
 1. “demo_FeaExtr”: matlab codes to load PET images, segmentation mask and extract radiomic features under different parameter settings, i.e. symmetry, averaging strategy and distance for GLCM,  averaging strategy for GLRLM, neighborhood extent for GLSZM and window size for NGTDM.
 
